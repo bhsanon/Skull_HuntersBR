@@ -1,4 +1,4 @@
-##  Bem-vindo a Skull_Hunter
+## Bem-vindo a Skull_Hunter
 
 A escola para hackers
 
